@@ -1,5 +1,7 @@
 # yasio-docs-437
 
+DEPRECATED
+
 This is the yasio official English documentation sources repo, build with [mkdocs](https://www.mkdocs.org/)
 
 * site: https://yasio.github.io/en/
