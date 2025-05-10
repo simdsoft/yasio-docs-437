@@ -1,6 +1,6 @@
 # yasio-docs-437
 
-DEPRECATED
+DEPRECATED, will be moved to https://github.com/simdsoft/yasio
 
 This is the yasio official English documentation sources repo, build with [mkdocs](https://www.mkdocs.org/)
 
